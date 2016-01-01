@@ -1,4 +1,4 @@
-# javascript-tutorials-in-hindi
+# javaScript tutorials in Hindi
 Hare u get total project file of javascript tutorials in hindi video series
 #Note:
 To follow our tutorials download privious day project file
